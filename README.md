@@ -5,3 +5,8 @@ THIS PREDICTIVE MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES FROM A 
 -----------
 Student-Data.csv file use for predict outcomes from dataset via PREDICTIVE MODEL (MACHINE LEARNING MODEL)
 this file use for just example based file only-
+-------------------------------------
+Requirements:
+install neccessary library:
+------------------------
+pip install pandas scikit-learn matplotlib
